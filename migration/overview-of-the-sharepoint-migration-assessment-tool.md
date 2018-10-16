@@ -14,7 +14,7 @@ description: ""
 
 # Overview of the SharePoint Migration Assessment Tool
 
-The SharePoint Migration assessment tool (SMAT) is a simple command line executable that scans the contents of your SharePoint farm to help identify the impact of migrating your server to SharePoint Online with Office 365.
+The SharePoint Migration assessment tool (SMAT) is a simple command line executable that scans the contents of your SharePoint farm to help identify the impact of migrating your server to SharePoint Online with Office 365,with the exception of Office 365 operated by 21Vianet in China.
   
 As the tool is designed to run without impacting your environment, you may observe the tool requires one to two days to complete a scan of your environment. During this time, the tool will report progress in the console window. After the scan is complete, you can find output files in the Logs directory. This is where you will find the summary and more detailed insights into the scenarios that could be impacted by migration.
   
