@@ -21,6 +21,8 @@ ms.assetid: 742b5502-08e8-47f8-83c4-afb521725cb2
 ## Overview
 
 One of the requirements for using the SharePoint Online Migration API is the use of an Azure container for temporary storage. The cost of an Azure container is now free; the free default Azure container is now part of the basic SharePoint online offering. Every tenant who signs up for SharePoint Online will get this for free.
+
+[NOTE] SharePoint Online operated by 21Vianet in China hasn't provided Azure Containers and Queues for SPO Migration API
   
 Important key aspects include:
   
